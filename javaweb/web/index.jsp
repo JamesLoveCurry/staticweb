@@ -11,6 +11,6 @@
     <title>首页</title>
   </head>
   <body>
-  <h1>欢迎</h1>
+  <h1>欢迎光临</h1>
   </body>
 </html>
