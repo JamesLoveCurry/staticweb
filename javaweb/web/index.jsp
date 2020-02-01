@@ -12,5 +12,6 @@
   </head>
   <body>
   <h1>欢迎</h1>
+  <a href="www.baidu.com">百度一下</a>
   </body>
 </html>
